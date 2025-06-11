@@ -26,10 +26,15 @@ The AI learns how to play Flappy Bird entirely by itself — it starts off with 
 ## 📁 Project Structure
 
 flappy-bird-ai/
+
 ├── assets/                  # Game images (bird, pipe, base, bg)
+
 ├── main.py                  # Game logic + NEAT integration
+
 ├── config-feedforward.txt   # NEAT configuration
+
 ├── requirements.txt         # Python dependencies
+
 ├── README.md                # Project overview
 
 ---

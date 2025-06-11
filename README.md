@@ -6,14 +6,6 @@ The AI learns how to play Flappy Bird entirely by itself — it starts off with 
 
 ---
 
-## 🎮 Demo
-
-![Flappy Bird AI Demo](https://user-images.githubusercontent.com/your-demo.gif)
-
-> Add your GIF or screen recording here, or remove this section if not available.
-
----
-
 ## 🚀 How It Works
 
 - Multiple birds are created, each with a tiny neural network brain.
